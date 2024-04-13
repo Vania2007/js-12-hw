@@ -1,0 +1,14 @@
+table, td{
+    border: solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+.weekend{
+    color:red;
+}
+.day{
+    color:blue;
+}
+.today{
+    background-color: gold;
+}
